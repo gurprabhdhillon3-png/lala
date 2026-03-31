@@ -1,0 +1,22 @@
+*{
+    font-size: 50px;
+    font-weight: 500;
+}
+h3{
+    color: blanchedalmond;
+}
+h4{
+    color:lightsalmon;
+}
+h5{
+    font-style: italic;
+}
+#my{
+    color: darkgoldenrod;
+}
+.my class{
+    color: mistyrose;
+}
+h6,p{
+    background-color: aquamarine;
+}
