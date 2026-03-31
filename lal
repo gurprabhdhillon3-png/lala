@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>lalalal</title>
+    <style>
+        h2{
+            color:brown;
+        }
+        </style>
+        <link rel="stylesheet" type="text/css" href="demo.css">
+    </head>
+    <body style="background-color: rgb(181, 115, 115)";>
+        <hr>
+        <h1 style="font: size 98px; ">hello i am prabhjot</h1>
+        <h2>internal css</h2>
+        <h3>external css</h3>
+        <hr>
+        <h4>element sector</h4>
+        <h5>lalalal</h5>
+        <hr>
+        <h2 id="my">id sector</h2>
+        <h2 class="my class">class sector</h2>
+        <hr>
+        <h6> group sector </h6>
+        <p>group sector example</p>
+        <hr>
+        </body>
+        </html>
