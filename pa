@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>kkk</title>
+    <style>
+        body{
+            background-color: beige;
+            background-image:url("pa.jpg");
+            background-position: left;
+            background-repeat: space;
+        }
+        </style>
+</head>
+<body>
+    ki
+</body>
+</html>
